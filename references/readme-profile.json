@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 332｜Storybook Relic Emblem: keeps the photo and reduces its subject to one small folk-modernist emblem, like a seal left behind by an old storybook — a paper-cut silhouette built from circles, arcs, triangles and flat blocks, slightly uneven handmade lines, a few screen-print colours such as sage green, forest green, mustard, muted red and warm white, set small and often off-centre in wide empty space, with at most a tiny handwritten initial or date fragment. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-332 or asks for a folk emblem, storybook seal, paper-cut pictogram or small keepsake mark from a photo.",
+  "short_description": "故事遗徽：把照片主体收成一枚剪纸轮廓、少色丝网印刷感的故事书小印记",
+  "zh-CN": {
+    "name": "故事遗徽",
+    "tagline": "把照片里的主体收成一枚像从老故事书里留下来的小小印记。",
+    "look": "照片里最好认的轮廓、动作和特征被压缩成一个小符号：人、动物、植物或工具，都用圆、弧线、三角和块面拼出剪纸般的剪影，没有五官和写实细节，线条带一点手工的不平整。只用几种像丝网印刷分色的颜色，比如鼠尾草绿、森林深绿、芥末黄、低饱和红和暖白，没有渐变和光泽。符号放得很小，可以偏心、略斜或被少量纹样围着，四周大片留白。文字最多是一点手写缩写、日期碎片或签名。",
+    "traits": [
+      "故事遗物",
+      "模块象形",
+      "民间几何",
+      "小印章",
+      "装饰留白"
+    ],
+    "good": [
+      "轮廓一眼能认的单个主体：一只鸟、一只狗、一个撑伞的人、一棵树",
+      "带有动作或关系的瞬间：抱着猫的孩子、牵手的两个人、提着篮子走路",
+      "想做成藏书印、手帐贴纸、私人纪念徽记的日常照片"
+    ],
+    "poor": [
+      "必须保留脸部、细节或文字的照片：证件照、产品图、菜单和招牌",
+      "人多、主体分散的大场景，压不成一个小符号",
+      "想要商业 Logo、App 图标、3D 或渐变光泽效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Storybook Relic Emblem",
+    "tagline": "Reduces the subject of your photo to one small mark that looks like it was left behind by an old storybook.",
+    "look": "The most recognisable outline, gesture and feature of the photo are compressed into a small symbol: a person, animal, plant or tool built from circles, arcs, triangles and flat blocks into a paper-cut silhouette, with no facial features or realistic detail and slightly uneven handmade lines. Only a few screen-print colours appear, such as sage green, forest green, mustard, muted red and warm white, with no gradients or shine. The mark sits small, often off-centre, slightly tilted or ringed by a little ornament, in wide empty space. Text, if any, is a tiny handwritten initial, date fragment or signature.",
+    "traits": [
+      "Story relic",
+      "Modular pictogram",
+      "Folk geometry",
+      "Small seal",
+      "Ornamental whitespace"
+    ],
+    "good": [
+      "A single subject with an outline you know at a glance: a bird, a dog, a person with an umbrella, a tree",
+      "Moments with an action or relationship: a child holding a cat, two people holding hands, someone walking with a basket",
+      "Everyday photos you want as a bookplate stamp, journal sticker or personal keepsake mark"
+    ],
+    "poor": [
+      "Photos where faces, detail or text must survive: ID photos, product shots, menus and shop signs",
+      "Crowded wide scenes with scattered subjects that cannot fold into one small symbol",
+      "Requests for a commercial logo, app icon, 3D or glossy gradient look"
+    ]
+  },
+  "ja": {
+    "name": "物語の遺し印",
+    "tagline": "写真の主役を、古い物語の本から残されたような小さな印にまとめます。",
+    "look": "写真でいちばんわかりやすい輪郭、動き、特徴を小さな記号に凝縮します。人、動物、植物、道具を円、弧、三角、面で組み立てた切り絵のようなシルエットにし、顔や写実的な細部は描かず、線には手仕事らしい揺らぎが残ります。色はセージグリーン、深い森の緑、マスタード、くすんだ赤、温かい白など、シルクスクリーンの版分けのような数色だけで、グラデーションや光沢はありません。印は小さく置かれ、中心をずらしたり少し傾けたり、わずかな文様で囲んだりして、周りには広い余白が残ります。文字は入っても小さな手書きのイニシャル、日付の断片、サイン程度です。",
+    "traits": [
+      "物語の遺物",
+      "モジュール象形",
+      "民芸の幾何学",
+      "小さな印章",
+      "装飾的な余白"
+    ],
+    "good": [
+      "輪郭がひと目でわかる単独の主役：鳥、犬、傘をさす人、一本の木",
+      "動きや関係がある瞬間：猫を抱く子ども、手をつなぐ二人、かごを提げて歩く人",
+      "蔵書印、手帳のステッカー、個人的な記念の印にしたい日常写真"
+    ],
+    "poor": [
+      "顔や細部、文字を残す必要がある写真：証明写真、商品写真、メニューや看板",
+      "人が多く主役が散らばった広い場面（一つの小さな記号にまとまりません）",
+      "商業ロゴ、アプリアイコン、3D、光沢のあるグラデーションを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "이야기 유물 인장",
+    "tagline": "사진 속 주인공을 오래된 이야기책에서 남겨진 듯한 작은 인장으로 압축합니다.",
+    "look": "사진에서 가장 알아보기 쉬운 윤곽, 동작, 특징을 작은 기호로 압축합니다. 사람, 동물, 식물, 도구를 원, 호, 삼각형, 면으로 짜 맞춘 종이 오리기 같은 실루엣으로 만들고, 이목구비나 사실적인 세부는 넣지 않으며 선에는 손으로 그린 듯한 고르지 않음이 남습니다. 세이지 그린, 짙은 숲색, 머스터드, 채도 낮은 빨강, 따뜻한 흰색처럼 실크스크린 분판 같은 몇 가지 색만 쓰고 그라데이션이나 광택은 없습니다. 인장은 작게 놓이며 중심에서 비켜나거나 살짝 기울거나 약간의 문양에 둘러싸이고, 주변에는 넓은 여백이 남습니다. 글자는 있어도 작은 손글씨 이니셜, 날짜 조각, 서명 정도입니다.",
+    "traits": [
+      "이야기 유물",
+      "모듈형 상형",
+      "민속 기하",
+      "작은 인장",
+      "장식적 여백"
+    ],
+    "good": [
+      "윤곽만 봐도 바로 알 수 있는 단일 주인공: 새, 강아지, 우산 쓴 사람, 나무 한 그루",
+      "동작이나 관계가 있는 순간: 고양이를 안은 아이, 손잡은 두 사람, 바구니를 들고 걷는 사람",
+      "장서인, 다이어리 스티커, 개인 기념 인장으로 쓰고 싶은 일상 사진"
+    ],
+    "poor": [
+      "얼굴, 세부, 글자를 살려야 하는 사진: 증명사진, 제품 사진, 메뉴판과 간판",
+      "사람이 많고 주인공이 흩어진 넓은 장면(하나의 작은 기호로 모이지 않습니다)",
+      "상업 로고, 앱 아이콘, 3D, 광택 있는 그라데이션을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "شعار أثر الحكاية",
+    "tagline": "يختزل العنصر الرئيسي في صورتك إلى علامة صغيرة تبدو كأنها بقيت من كتاب حكايات قديم.",
+    "look": "يُضغط أوضح ما في الصورة من خطوط خارجية وحركة وسمات في رمز صغير: شخص أو حيوان أو نبات أو أداة يُبنى من دوائر وأقواس ومثلثات ومساحات مسطّحة على هيئة ظلّ مقصوص من الورق، بلا ملامح وجه ولا تفاصيل واقعية، وبخطوط غير منتظمة قليلاً كأنها مرسومة باليد. تظهر ألوان قليلة كفصل ألوان الطباعة الحريرية، مثل الأخضر المريمي والأخضر الغابي الداكن والخردلي والأحمر الخافت والأبيض الدافئ، دون تدرّجات أو لمعان. توضع العلامة صغيرة، وغالباً بعيداً عن المركز أو مائلة قليلاً أو محاطة بزخرفة بسيطة، وسط فراغ واسع. وإن وُجد نص فهو حرف أول صغير بخط اليد أو جزء من تاريخ أو توقيع.",
+    "traits": [
+      "أثر حكاية",
+      "رموز تصويرية متناسقة",
+      "هندسة شعبية",
+      "ختم صغير",
+      "فراغ زخرفي"
+    ],
+    "good": [
+      "عنصر واحد يُعرف من خطوطه الخارجية فوراً: طائر، كلب، شخص يحمل مظلة، شجرة",
+      "لحظات فيها حركة أو علاقة: طفل يحتضن قطة، شخصان يمسكان أيدي بعضهما، شخص يمشي حاملاً سلة",
+      "صور يومية تريدها ختماً لكتاب أو ملصقاً لدفتر يوميات أو علامة تذكارية شخصية"
+    ],
+    "poor": [
+      "صور يجب أن تبقى فيها الوجوه أو التفاصيل أو الكتابة: صور الهوية، صور المنتجات، قوائم الطعام ولافتات المحلات",
+      "مشاهد واسعة مزدحمة بعناصر متفرقة لا يمكن جمعها في رمز صغير واحد",
+      "طلب شعار تجاري أو أيقونة تطبيق أو مظهر ثلاثي الأبعاد أو تدرّج لامع"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-332
-description: "Create XXD Panel 332 raster artwork: a faithful photograph paired with one small storybook relic built from one modular pictogram alphabet. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-332 or asks for this 故事遗徽 style."
+description: "XXD Panel 332｜Storybook Relic Emblem: keeps the photo and reduces its subject to one small folk-modernist emblem, like a seal left behind by an old storybook — a paper-cut silhouette built from circles, arcs, triangles and flat blocks, slightly uneven handmade lines, a few screen-print colours such as sage green, forest green, mustard, muted red and warm white, set small and often off-centre in wide empty space, with at most a tiny handwritten initial or date fragment. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-332 or asks for a folk emblem, storybook seal, paper-cut pictogram or small keepsake mark from a photo."
 ---
 
 # XXD Panel 332
